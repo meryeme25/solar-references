@@ -8,6 +8,7 @@ The input model used :
 # Solar-references add input
  Leaf Area Index (HDF5 files from SAF africa .... )[3]
  
+# References
 
 [1]: Alawi SM, Hinai HA. An ANN-based approach for predicting global radiation in locations with no direct measurement instrumentation. Renewable Energy 1998;14(1-4):199–204.
 
