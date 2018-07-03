@@ -2,7 +2,8 @@
 
 The input model used : 
 -	The input data to the network are the location, month, mean pressure, mean temperature, mean vapour pressure, mean relative humidity, mean wind speed and mean duration of sunshine. [1]
-- The latitude, longitude, altitude and sunshine duration
+- The latitude, longitude, altitude and sunshine duration.[2]
+- The input data to the network are the location, month, mean pressure, mean temperature, mean vapor pressure, mean relative humidity mean wind speed and mean duration of sunshine [1]
 
 
 # Solar-references add input
@@ -16,3 +17,4 @@ The input model used :
 networks. Renewable Energy 1998;14(1-4):179–84.
 
 [3] Monteith, John, and Mike Unsworth. Principles of environmental physics. Academic Press, 2007.
+[4] 
