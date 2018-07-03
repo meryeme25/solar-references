@@ -5,5 +5,6 @@ The input model used :
 - The latitude, longitude, altitude and sunshine duration
 
 [1]: Alawi SM, Hinai HA. An ANN-based approach for predicting global radiation in locations with no direct measurement instrumentation. Renewable Energy 1998;14(1-4):199–204.
+
 [2]: Mohandes M, Rehman S, Halawani TO. Estimation of global solar radiation using artificial neural
 networks. Renewable Energy 1998;14(1-4):179–84.
