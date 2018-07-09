@@ -3,7 +3,7 @@ import requests
 import urllib2
 import urllib
 from requests.auth import HTTPBasicAuth
-url = 'http://10.20.0.151/TeraCast/SAF-Africa/'
+url = 'http://*******/SAF-Africa/'
 ext = 'tar'
 
 username = '****'
@@ -24,7 +24,7 @@ urllib2.install_opener(opener)
 
 
 def listFD(url, ext=''):
-    page = requests.get(url,auth=('meryeme', 'meryeme_B')).text
+    page = requests.get(url,auth=('******', '******')).text
     #print page
     soup = BeautifulSoup(page, 'html.parser')
     #return [url + '/' + node.get('href') for node in soup.find_all('a') if node.get('href').endswith(ext)]
